@@ -27,22 +27,28 @@
 
 //Ejercicio 2
 
-let numero = 2
-for(i=0 ; i<=12 ; i++){
-    console.log(i + "x" + i * numero )
-}
+// let numero = 2
+// for(i=0 ; i<=12 ; i++){
+//     console.log(i + "x" + i * numero )
+// }
 
-// Ejercicio 3
+// Ejercicio 3 // estoy investigando como imprimir en console. 
 
 //Imprime por consola el siguiente patrón:
 // i    i**2   i**3
 
 
-let uno = 1;
-let dos = 1 ;
+// let uno = 1;
+// let dos = 1 ;
 
-for (i= 0 ; i<=10 ; i**){
+// for (i= 0 ; i<=10 ; i**){
 
-    console.log (i + uno + i + " " + dos )
+//     console.log (i + uno + i + " " + dos )
+// }// me atasque..
+
+// Ejercicio 4 
+
+let suma = 1 
+for (i=0 ; i<=5; i++){
+    console.log (suma + i + i + "=" + suma + i  )
 }
-
